@@ -1,0 +1,11 @@
+C:\Users\user\Documents\Visual Studio 2019\Projects\Practice\CustomTextBox\CustomTextBox\obj\Debug\CustomTextBox.csprojAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2019\Projects\Practice\CustomTextBox\CustomTextBox\obj\Debug\CustomTextBox.Properties.Resources.resources
+C:\Users\user\Documents\Visual Studio 2019\Projects\Practice\CustomTextBox\CustomTextBox\obj\Debug\CustomTextBox.TxtBoxUserControl.resources
+C:\Users\user\Documents\Visual Studio 2019\Projects\Practice\CustomTextBox\CustomTextBox\obj\Debug\CustomTextBox.csproj.GenerateResource.cache
+C:\Users\user\Documents\Visual Studio 2019\Projects\Practice\CustomTextBox\CustomTextBox\obj\Debug\CustomTextBox.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Visual Studio 2019\Projects\Practice\CustomTextBox\CustomTextBox\bin\Debug\CustomTextBox.exe.config
+C:\Users\user\Documents\Visual Studio 2019\Projects\Practice\CustomTextBox\CustomTextBox\bin\Debug\CustomTextBox.exe
+C:\Users\user\Documents\Visual Studio 2019\Projects\Practice\CustomTextBox\CustomTextBox\bin\Debug\CustomTextBox.pdb
+C:\Users\user\Documents\Visual Studio 2019\Projects\Practice\CustomTextBox\CustomTextBox\obj\Debug\CustomTextBox.exe
+C:\Users\user\Documents\Visual Studio 2019\Projects\Practice\CustomTextBox\CustomTextBox\obj\Debug\CustomTextBox.pdb
+C:\Users\user\Documents\Visual Studio 2019\Projects\Practice\CustomTextBox\CustomTextBox\obj\Debug\CustomTextBox.Form1.resources
